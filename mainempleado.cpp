@@ -1,4 +1,5 @@
 //main para la clase empleado
+//prueba de comentario 
 #include "Empleado.cpp"
 #include <iostream>
 using namespace std;
